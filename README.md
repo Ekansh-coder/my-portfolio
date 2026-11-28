@@ -10,7 +10,7 @@ my personal website, built with html, js and tailwind
 ## how to run
 
 ### view from the github website
-[View](linkhere)
+[View](https://ekansh-coder.github.io/my-portfolio/)
 
 ### run locally
 1. clone or download the repository
